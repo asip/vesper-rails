@@ -2,6 +2,10 @@
 
 Vesper Rails links Vesper and Ruby on Rails.
 
+## Vesper
+
+https://github.com/asip/vesper
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
