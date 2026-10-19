@@ -30,13 +30,23 @@ class ApplicationController < Vesper::Api::Controller
 end
 ```
 
-### other
+### Other
 
 ```
 class ApplicationController < Vesper::Controller
   ...
 end
 ```
+
+## App that use Vesper Rails
+
+Hotwire + REST API (+ management console)
+
+<https://github.com/asip/easel-legacy>
+
+REST API only (+ management console)
+
+<https://github.com/asip/easel-back>
 
 ## Contributing
 
