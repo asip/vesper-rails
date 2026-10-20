@@ -17,6 +17,7 @@ require 'vesper/resources/error_messages_resource'
 
 require 'vesper/stream/error/renderable'
 require 'vesper/stream/renderable'
+require 'vesper/reloadable'
 
 require 'vesper/engine'
 
