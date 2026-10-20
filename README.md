@@ -22,7 +22,7 @@ gem install vesper-rails
 
 ## Usage
 
-### REST API
+### API mode (REST API)
 
 ```
 class ApplicationController < Vesper::Api::Controller
@@ -30,7 +30,7 @@ class ApplicationController < Vesper::Api::Controller
 end
 ```
 
-### Other
+### Default mode
 
 ```
 class ApplicationController < Vesper::Controller
