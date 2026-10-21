@@ -1,3 +1,7 @@
+## [0.2.0] - 2026-10-21
+
+- Add DateUtil and JsonUtil
+
 ## [0.1.1] - 2026-10-20
 
 - Update Vesper::Controller
