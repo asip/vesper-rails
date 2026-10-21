@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Vesper Rails"
   spec.homepage = "https://github.com/asip/vesper-rails"
-  spec.license = 'MIT'
+  spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
   # spec.metadata["allowed_push_host"] = "https://rubygems.org"
   # spec.metadata["homepage_uri"] = spec.homepage
@@ -41,6 +41,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency(%q<railties>, [">= 7.0"])
   spec.add_runtime_dependency(%q<activemodel>, [">= 7.0"])
   spec.add_dependency "alba", ">= 4.0.0"
+  spec.add_dependency "oj", ">= 3.17.7"
   spec.add_dependency "typelizer", ">= 0.14.0"
 
   # For more information and examples about making a new gem, check out our
