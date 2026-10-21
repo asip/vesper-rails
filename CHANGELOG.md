@@ -1,3 +1,8 @@
+## [0.3.0] - 2026-10-22
+
+- Refactor Vesper::Model::Types::HashType
+- Add Vesper::Model::Types::ArrayType
+
 ## [0.2.0] - 2026-10-21
 
 - Add DateUtil and JsonUtil
