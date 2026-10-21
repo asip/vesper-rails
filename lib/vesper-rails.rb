@@ -6,7 +6,7 @@ require "vesper/api/unauthorized_error"
 
 require "vesper/model/errors/a_p_i"
 
-require "vesper/types/hash_type"
+require "vesper/model/types/hash_type"
 
 require "vesper/models/error_map"
 require "vesper/models/error_messages"
