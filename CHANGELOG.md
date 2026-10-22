@@ -1,3 +1,7 @@
+## [0.4.0] - 2026-10-22
+
+- Add Locale::Detect
+
 ## [0.3.0] - 2026-10-22
 
 - Refactor Vesper::Model::Types::HashType
