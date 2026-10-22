@@ -25,5 +25,7 @@ require "vesper/engine"
 require "date_util"
 require "json_util"
 
+require "locale/detect"
+
 module Vesper
 end
