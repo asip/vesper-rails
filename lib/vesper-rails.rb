@@ -27,5 +27,6 @@ require "json_util"
 
 require "locale/detect"
 
+# Vesper module
 module Vesper
 end

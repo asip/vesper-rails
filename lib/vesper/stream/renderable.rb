@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-# Vesper::Stream::Renderable module
 module Vesper
   module Stream
+    # Vesper::Stream::Renderable module
     module Renderable
       extend ActiveSupport::Concern
       include Vesper::Stream::Error::Renderable

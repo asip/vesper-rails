@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Vesper::Reloadable module
 module Vesper
+  # Vesper::Reloadable module
   module Reloadable
     extend ActiveSupport::Concern
 

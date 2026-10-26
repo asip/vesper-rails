@@ -1,7 +1,7 @@
+# frozen_string_literal: true
 
-
-# Vesper::Engine class
 module Vesper
+  # Vesper::Engine class
   class Engine < ::Rails::Engine
     isolate_namespace Vesper
   end

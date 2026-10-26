@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-# Vesper::Api::Renderable module
 module Vesper
   module Api
+    # Vesper::Api::Renderable module
     module Renderable
       extend ActiveSupport::Concern
       include Vesper::Api::Error::Renderable

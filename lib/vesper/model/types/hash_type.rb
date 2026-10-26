@@ -1,11 +1,9 @@
 # frozen_string_literal: true
 
-#
-# Vesper::Model::Types::HashType class
-#
 module Vesper
   module Model
     module Types
+      # Vesper::Model::Types::HashType class
       class HashType < ActiveModel::Type::Value
         def cast(value)
           case value

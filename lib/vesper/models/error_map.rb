@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-#
-# Vesper::Models::ErrorMap class
-#
 module Vesper
   module Models
+    # Vesper::Models::ErrorMap class
     class ErrorMap
       include ActiveModel::API
       include ActiveModel::Attributes

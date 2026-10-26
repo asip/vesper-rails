@@ -1,7 +1,9 @@
-# Vesper::Model::Errors::API module
+# frozen_string_literal: true
+
 module Vesper
   module Model
     module Errors
+      # Vesper::Model::Errors::API module
       module API
         extend ActiveSupport::Concern
 
