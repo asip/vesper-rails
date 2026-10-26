@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Vesper::Api::Controller
+# Vesper::Api::Controller class
 module Vesper
   module Api
     class Controller < ActionController::API
