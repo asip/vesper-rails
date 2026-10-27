@@ -4,7 +4,7 @@ require "vesper/api/error/renderable"
 require "vesper/api/renderable"
 require "vesper/api/unauthorized_error"
 
-require "vesper/model/errors/a_p_i"
+require "vesper/model/errors/api"
 
 require "vesper/model/types/array_type"
 require "vesper/model/types/hash_type"
