@@ -1,3 +1,8 @@
+## [0.5.0] - 2026-10-27
+
+- Add Vesper::Devise::JWT::FailureApp
+- Add ActiveModel::ErrorsWithoutBeforeTypeCast
+
 ## [0.4.1] - 2026-10-22
 
 - Add Locale::Detect
