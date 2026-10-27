@@ -27,6 +27,8 @@ require "json_util"
 
 require "locale/detect"
 
+require "active_model/errors_without_before_type_cast"
+
 # Vesper module
 module Vesper
 end
