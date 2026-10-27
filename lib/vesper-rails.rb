@@ -20,6 +20,8 @@ require "vesper/stream/error/renderable"
 require "vesper/stream/renderable"
 require "vesper/reloadable"
 
+require "vesper/devise/jwt/failure_app"
+
 require "vesper/engine"
 
 require "date_util"
